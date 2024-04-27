@@ -11,3 +11,5 @@ Programe laborator POO 15.03.2024:
 Program laborator POO 23.03.2024:
 
 *Laborator 2 app. 1: CreditOrganizer
+
+*Laborator 4 : Windows Form Calculator
